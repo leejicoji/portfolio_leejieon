@@ -4,7 +4,7 @@ $(document).ready(function () {
         anchors: ['section1', 'section2', 'section3', 'section4', 'section5', 'section6', 'section7'],
         navigation: true,
         sectionsColor: ['#fff', '#FBE3E4', '#A3A380', "#D6CE93 ", '#EFEBCE', '#c8aab2', '#fff', 'rgb(128 128 128 / 25%)'],
-        navigationTooltips: ['Home', 'About me', 'Whatcha', 'Donggubat', 'Mamonde', 'Design', 'DESIGN', 'COPYRIGHT'],
+        navigationTooltips: ['Home', 'About me', 'Cremaclub', 'Whatcha', 'Donggubat', 'Mamonde', 'Design', 'Copyright'],
         slidesNavigation: true,
         loopTop: true,
         loopBottom: true
