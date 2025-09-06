@@ -276,6 +276,34 @@ button {
     color: #acacac;
     font-size: 0.8vw;
 }
+.creama_notice {
+    position: absolute;
+    top: 90vh;
+    left: 5vw;
+    color: #2b2b2b;
+    font-size: 0.8vw;
+}
+.whatcha_notice {
+    position: absolute;
+    top: 85vh;
+    left: 5vw;
+    color: #aaa;
+    font-size: 0.8vw;
+}
+.dong_notice {
+    position: absolute;
+    top: 85vh;
+    left: 5vw;
+    color: #575757;
+    font-size: 0.8vw;
+}
+.mamonde_notice {
+    position: absolute;
+    top: 90vh;
+    left: 5vw;
+    color: #aaa;
+    font-size: 0.8vw;
+}
 
 /* intro */
 .introduce_wrap {
@@ -379,87 +407,87 @@ button {
     line-height: 30px;
 }
 
-/* gmarket color */
-.gmarket_title {
+/* crema color */
+.crema_title {
     color: #EFEBCE;
 }
 
-.gmarket_sub_title {
+.crema_sub_title {
     background-color: #fff07c15;
     color: #EFEBCE;
 }
 
-.gmarket_01 {
+.crema_01 {
     margin-top: 30px;
     margin-left: 4.5vw;
     background: #6C584C;
 }
 
-.gmarket_02 {
+.crema_02 {
     background: #F0EAD2;
 }
 
-.gmarket_03 {
+.crema_03 {
     background: #ADC178;
 }
 
-.gmarket_content_title {
+.crema_content_title {
     color: #EFEBCE;
 }
 
-.gmarket_content {
+.crema_content {
     color: #EFEBCE;
 }
 
-.gmarket_btn {
+.crema_btn {
     background-color: #D6CE93;
     color: #333;
 }
 
-.gmarket_btn:hover {
+.crema_btn:hover {
     background-color: #A3A380;
     transition: all 0.5s ease-in-out;
     color: #fff;
 }
 
-/* lotte color */
-.lotte_title {
+/* whatcha color */
+.whatcha_title {
     color: #7D6047;
 }
 
-.lotte_sub_title {
+.whatcha_sub_title {
     background-color: rgba(170, 142, 85, .25);
     color: #7D6047;
 }
 
-.lotte_01 {
+.whatcha_01 {
     margin-top: 30px;
     margin-left: 4.5vw;
     background: #FF0054;
 }
 
-.lotte_02 {
+.whatcha_02 {
     background: #FFC7DA;
 }
 
-.lotte_03 {
+.whatcha_03 {
     background: #fff;
 }
 
-.lotte_content_title {
+.whatcha_content_title {
     color: #7D6047;
 }
 
-.lotte_content {
+.whatcha_content {
     color: #7D6047;
 }
 
-.lotte_btn {
+.whatcha_btn {
     background-color: #7D6047;
     color: #fff;
 }
 
-.lotte_btn:hover {
+.whatcha_btn:hover {
     background-color: rgba(170, 142, 85, .25);
     transition: all 0.5s ease-in-out;
     color: #aa8e55;
@@ -513,61 +541,50 @@ button {
     top: 89vh;
 }
 
-/* hpoint color */
-.hpoint_title {
+/* mamonde color */
+.mamonde_title {
     color: #b2708b;
     letter-spacing: 15px;
 }
 
-.hpoint_sub_title {
+.mamonde_sub_title {
     background-color: rgba(178, 112, 139, .25);
     color: #b2708b;
 }
 
-.hpoint_content_title {
+.mamonde_content_title {
     color: #b2708b;
     letter-spacing: -4px;
 }
 
-.hpoint_01 {
+.mamonde_01 {
     margin-top: 30px;
     margin-left: 4.5vw;
     background: #FFC7EA;
 }
 
-.hpoint_02 {
+.mamonde_02 {
     background: #DDEDEC;
 }
 
-.hpoint_03 {
+.mamonde_03 {
     background: #518FD8;
 }
 
-.hpoint_content {
+.mamonde_content {
     color: #b2708b;
 }
 
-.hpoint_btn {
+.mamonde_btn {
     background-color: #b2708b;
     color: #fff;
 }
 
-.hpoint_btn:hover {
+.mamonde_btn:hover {
     background-color: rgba(178, 112, 139, .25);
     transition: all 0.5s ease-in-out;
     color: #b2708b;
 }
-
-/* etude color */
-/* .etude_title { color: #ef426f; letter-spacing: 15px; }
-.etude_sub_title { background-color: rgba(234, 80, 149, .25); color: #ef426f; }
-.etude_content_title { color: #ef426f; letter-spacing: 1px;}
-.etude_01 { margin-top: 30px; margin-left: 4.5vw; background: #ef426f; }
-.etude_02 { background: rgb(234 80 149 /25%); }
-.etude_03 { background: #fff; }
-.etude_content { color: #ef426f;  }
-.etude_btn { background-color: #ef426f; color: #fff; }
-.etude_btn:hover { background-color: rgb(234 80 149 / 25%); transition: all 0.5s ease-in-out; color: #ef426f; } */
 
 /* DESIGN */
 .design_wrap {
